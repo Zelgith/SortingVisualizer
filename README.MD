@@ -22,7 +22,7 @@ This project is a simple sorting algorithm visualizer built with Go. It provides
     ```
 3. Build the project:
     ```sh
-    go build
+    go build -ldflags -H=windowsgui
     ```
 
 OR -> Releases
